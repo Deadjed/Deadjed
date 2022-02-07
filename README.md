@@ -1,7 +1,7 @@
 # About Me
 Hi, I’m @Deadjed!
 
-I am interested in learning C++ and Unreal engine through projects on here
+I am interested in learning C++ and Unreal engine
 
 I also enjoy producing/mixing/mastering electronic music which you can find below!
 
