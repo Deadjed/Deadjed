@@ -1,6 +1,6 @@
 # :space_invader: Hi, I’m Jed! :space_invader:
 
-Language: <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="10">
+Language: <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30">
 
 I also enjoy producing/mixing/mastering electronic music which you can find below!
 
