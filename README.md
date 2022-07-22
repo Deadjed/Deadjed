@@ -1,7 +1,8 @@
 # About Me
-Hi, I’m @Deadjed!
+# :space_invader: Hi, I’m Jed! :space_invader:
 
-I am interested in learning C++ and Unreal engine
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+Language: <i class="programming lang-cpp"></i>
 
 I also enjoy producing/mixing/mastering electronic music which you can find below!
 
