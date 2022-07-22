@@ -1,8 +1,7 @@
 # :space_invader: Hi, I’m Jed! :space_invader:
 
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-Language: <i class="programming lang-cpp"></i>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+Language: <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="10">
+
 I also enjoy producing/mixing/mastering electronic music which you can find below!
 
 ## Music
