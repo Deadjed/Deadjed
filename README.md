@@ -1,4 +1,4 @@
-# :space_invader: Hi, I’m Jed! :space_invader:
+# :space_invader: Yo, I’m Jed! :space_invader:
 
 ### Languages: en_AU, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="25">
 
