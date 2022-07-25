@@ -1,6 +1,7 @@
 # :space_invader: Yo, I’m Jed! :space_invader:
 
 ### Languages: en_AU, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="25">
+### Tools: ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 I also enjoy producing/mixing/mastering electronic music which you can find below!
 
