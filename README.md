@@ -5,11 +5,12 @@ en_AU ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&
 
    
 ### Tools:    
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
    
     
 I also enjoy producing/mixing/mastering electronic music which you can find below!
    
 ## Music
+- [Agency](https://www.theeasyclubagency.com/deadjed)
 - [Soundcloud](https://soundcloud.com/jed-pauckner)
 - [Youtube](https://www.youtube.com/channel/UCrXF2xoTr7cold4dc1r2ymg)
