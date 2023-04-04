@@ -1,7 +1,7 @@
 # :space_invader: Yo, I’m Jed! :space_invader:
 
 ![Profile views](https://gpvc.arturio.dev/Deadjed)   
-[![stats](https://github-readme-stats.vercel.app/api?username=Deadjed&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)   
+[![stats](https://github-readme-stats.vercel.app/api?username=Deadjed&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)   
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Deadjed&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)   
 
 ### Languages:   
