@@ -8,9 +8,9 @@ en_AU ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
    
 ### Education:
-- Bachelor: Computer Science (RMIT) (Currently studying, est finish: 2025)
+- Bachelor: Computer Science (RMIT) (Currently studying, est finish: mid 2025)
 - Diploma: Information Technology (Deakin College)
-- Certificate: CS50 (Introduction to Computer Science) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+- Certificate: CS50 Introduction to Computer Science (Edx/HarvardX)
   
   
 I also enjoy producing/mixing/mastering electronic music which you can find below!
