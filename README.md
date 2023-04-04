@@ -17,5 +17,5 @@ I also enjoy producing/mixing/mastering electronic music which you can find belo
    
 ## Music
 - [Agency](https://www.theeasyclubagency.com/deadjed)
-- [Soundcloud](https://soundcloud.com/jed-pauckner)
+- [![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/jed-pauckner)
 - [Youtube](https://www.youtube.com/channel/UCrXF2xoTr7cold4dc1r2ymg)
