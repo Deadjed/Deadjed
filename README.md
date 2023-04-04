@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Deadjed)   
 [![stats](https://github-readme-stats.vercel.app/api?username=Deadjed&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Deadjed&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)   
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Deadjed&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)   
 
 ### Languages:   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadjed&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
