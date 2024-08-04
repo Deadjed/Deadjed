@@ -14,7 +14,7 @@ en_AU ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&
    
    
 ## Education:
-- Bachelor: Computer Science (RMIT) (Currently studying, est finish: mid 2025)
+- Bachelor: Computer Science (Minor: Artificial Intelligence/Machine Learning) (RMIT) (Currently studying, est finish: Oct 2024)
 - Diploma: Information Technology (Deakin College)
 - Certificate: CS50 Introduction to Computer Science (Edx/HarvardX)
   
